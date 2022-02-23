@@ -1,0 +1,9 @@
+.section .sys.version, "ax"
+
+.global app_scan_box_version
+
+app_scan_box_version:
+.long __TIMESTAMPNUM__
+.asciz "SCAN_BOX-@{DATE}-${COMMID}"
+
+

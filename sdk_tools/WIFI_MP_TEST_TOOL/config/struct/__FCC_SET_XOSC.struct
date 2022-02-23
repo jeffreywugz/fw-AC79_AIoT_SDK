@@ -1,0 +1,3 @@
+version:1|id:11|name:FCC_SET_XOSC|uiname:æß’ÒµÁ»›|info:∑∂Œß0-15|
+xosc_l|xosc_l|int.u8|11|0,15||
+xosc_r|xosc_r|int.u8|10|0,15||

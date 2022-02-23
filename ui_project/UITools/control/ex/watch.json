@@ -1,0 +1,671 @@
+{
+    "compoents": [
+        {
+            "-class": "NewLayout",
+            "-name": "watch_51",
+            "-type": "NewLayout",
+            "caption": "watch",
+            "icon": "../../../UITools/control/ex/watch.png",
+            "layout": [
+                {
+                    "-class": "NewFrame",
+                    "-name": "hour",
+                    "-type": "ImageList",
+                    "caption": "watch_hour",
+                    "icon": "config/images/page_white_vector.png",
+                    "property": [
+                        {
+                            "-name": "id",
+                            "-type": "id",
+                            "caption": "ID号",
+                            "ename": "NewFrame_2",
+                            "id": 0
+                        },
+                        {
+                            "-name": "element_css",
+                            "-type": "struct",
+                            "caption": "CSS元素",
+                            "info": "",
+                            "struct": [
+                                [
+                                    {
+                                        "-name": "align",
+                                        "-type": "enum",
+                                        "caption": "对齐方式",
+                                        "default": "ALIGN_CENTER",
+                                        "enum": [
+                                            {
+                                                "ALIGN_LEFT": 0
+                                            },
+                                            {
+                                                "ALIGN_CENTER": 1
+                                            },
+                                            {
+                                                "ALIGN_RIGHT": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "invisible",
+                                        "-type": "enum",
+                                        "caption": "默认隐藏",
+                                        "default": "false",
+                                        "enum": [
+                                            {
+                                                "true": 1
+                                            },
+                                            {
+                                                "false": 0
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "flags",
+                                        "-type": "enum",
+                                        "caption": "标志",
+                                        "default": "ELM_FLAG_NORMAL",
+                                        "enum": [
+                                            {
+                                                "ELM_FLAG_NORMAL": 0
+                                            },
+                                            {
+                                                "ELM_FLAG_HEAD": 1
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "rect",
+                                        "-type": "rect",
+                                        "caption": "坐标",
+                                        "rect": {
+                                            "height": 43,
+                                            "width": 50,
+                                            "x": 114,
+                                            "y": 33
+                                        }
+                                    },
+                                    {
+                                        "-name": "background_color",
+                                        "-type": "background-color",
+                                        "background-color": "",
+                                        "caption": "背景颜色"
+                                    },
+                                    {
+                                        "-name": "background_image",
+                                        "-type": "background-image",
+                                        "background-image": "",
+                                        "caption": "背景图片"
+                                    },
+                                    {
+                                        "-name": "border",
+                                        "-type": "border",
+                                        "border": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "caption": "边框",
+                                        "gray-color": 0
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "-name": "cent_x",
+                            "-type": "int16",
+                            "caption": "旋转中心点: X",
+                            "default": 12,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "cent_y",
+                            "-type": "int16",
+                            "caption": "旋转中心点: Y",
+                            "default": 16,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "image",
+                            "-type": "piclist",
+                            "caption": "图片列表",
+                            "default": "",
+                            "list": [
+                                "config/ctrl_pic/h0.png",
+                                "config/ctrl_pic/h1.png",
+                                "config/ctrl_pic/h2.png",
+                                "config/ctrl_pic/h3.png",
+                                "config/ctrl_pic/h4.png",
+                                "config/ctrl_pic/h5.png",
+                                "config/ctrl_pic/h6.png",
+                                "config/ctrl_pic/h7.png",
+                                "config/ctrl_pic/h8.png",
+                                "config/ctrl_pic/h9.png",
+                                "config/ctrl_pic/h10.png",
+                                "config/ctrl_pic/h11.png",
+                                "config/ctrl_pic/h12.png",
+                                "config/ctrl_pic/h13.png",
+                                "config/ctrl_pic/h14.png",
+                                "config/ctrl_pic/h15.png"
+                            ],
+                            "maxlength": 30
+                        }
+                    ],
+                    "tip": "",
+                    "version": "1",
+                    "widget": [
+                    ]
+                },
+                {
+                    "-class": "NewFrame",
+                    "-name": "min",
+                    "-type": "ImageList",
+                    "caption": "watch_min",
+                    "icon": "config/images/page_white_vector.png",
+                    "property": [
+                        {
+                            "-name": "id",
+                            "-type": "id",
+                            "caption": "ID号",
+                            "ename": "NewFrame_3",
+                            "id": 0
+                        },
+                        {
+                            "-name": "element_css",
+                            "-type": "struct",
+                            "caption": "CSS元素",
+                            "info": "",
+                            "struct": [
+                                [
+                                    {
+                                        "-name": "align",
+                                        "-type": "enum",
+                                        "caption": "对齐方式",
+                                        "default": "ALIGN_CENTER",
+                                        "enum": [
+                                            {
+                                                "ALIGN_LEFT": 0
+                                            },
+                                            {
+                                                "ALIGN_CENTER": 1
+                                            },
+                                            {
+                                                "ALIGN_RIGHT": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "invisible",
+                                        "-type": "enum",
+                                        "caption": "默认隐藏",
+                                        "default": "false",
+                                        "enum": [
+                                            {
+                                                "true": 1
+                                            },
+                                            {
+                                                "false": 0
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "flags",
+                                        "-type": "enum",
+                                        "caption": "标志",
+                                        "default": "ELM_FLAG_NORMAL",
+                                        "enum": [
+                                            {
+                                                "ELM_FLAG_NORMAL": 0
+                                            },
+                                            {
+                                                "ELM_FLAG_HEAD": 1
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "rect",
+                                        "-type": "rect",
+                                        "caption": "坐标",
+                                        "rect": {
+                                            "height": 63,
+                                            "width": 68,
+                                            "x": 114,
+                                            "y": 10
+                                        }
+                                    },
+                                    {
+                                        "-name": "background_color",
+                                        "-type": "background-color",
+                                        "background-color": "",
+                                        "caption": "背景颜色"
+                                    },
+                                    {
+                                        "-name": "background_image",
+                                        "-type": "background-image",
+                                        "background-image": "",
+                                        "caption": "背景图片"
+                                    },
+                                    {
+                                        "-name": "border",
+                                        "-type": "border",
+                                        "border": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "caption": "边框",
+                                        "gray-color": 0
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "-name": "cent_x",
+                            "-type": "int16",
+                            "caption": "旋转中心点: X",
+                            "default": 12,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "cent_y",
+                            "-type": "int16",
+                            "caption": "旋转中心点: Y",
+                            "default": 10,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "image",
+                            "-type": "piclist",
+                            "caption": "图片列表",
+                            "default": "",
+                            "list": [
+                                "config/ctrl_pic/mn0.png",
+                                "config/ctrl_pic/mn1.png",
+                                "config/ctrl_pic/mn2.png",
+                                "config/ctrl_pic/mn3.png",
+                                "config/ctrl_pic/mn4.png",
+                                "config/ctrl_pic/mn5.png",
+                                "config/ctrl_pic/mn6.png",
+                                "config/ctrl_pic/mn7.png",
+                                "config/ctrl_pic/mn8.png",
+                                "config/ctrl_pic/mn9.png",
+                                "config/ctrl_pic/mn10.png",
+                                "config/ctrl_pic/mn11.png",
+                                "config/ctrl_pic/mn12.png",
+                                "config/ctrl_pic/mn13.png",
+                                "config/ctrl_pic/mn14.png",
+                                "config/ctrl_pic/mn15.png"
+                            ],
+                            "maxlength": 30
+                        }
+                    ],
+                    "tip": "",
+                    "version": "1",
+                    "widget": [
+                    ]
+                },
+                {
+                    "-class": "NewFrame",
+                    "-name": "sec",
+                    "-type": "ImageList",
+                    "caption": "watch_sec",
+                    "icon": "config/images/page_white_vector.png",
+                    "property": [
+                        {
+                            "-name": "id",
+                            "-type": "id",
+                            "caption": "ID号",
+                            "ename": "NewFrame_4",
+                            "id": 0
+                        },
+                        {
+                            "-name": "element_css",
+                            "-type": "struct",
+                            "caption": "CSS元素",
+                            "info": "",
+                            "struct": [
+                                [
+                                    {
+                                        "-name": "align",
+                                        "-type": "enum",
+                                        "caption": "对齐方式",
+                                        "default": "ALIGN_CENTER",
+                                        "enum": [
+                                            {
+                                                "ALIGN_LEFT": 0
+                                            },
+                                            {
+                                                "ALIGN_CENTER": 1
+                                            },
+                                            {
+                                                "ALIGN_RIGHT": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "invisible",
+                                        "-type": "enum",
+                                        "caption": "默认隐藏",
+                                        "default": "false",
+                                        "enum": [
+                                            {
+                                                "true": 1
+                                            },
+                                            {
+                                                "false": 0
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "flags",
+                                        "-type": "enum",
+                                        "caption": "标志",
+                                        "default": "ELM_FLAG_NORMAL",
+                                        "enum": [
+                                            {
+                                                "ELM_FLAG_NORMAL": 0
+                                            },
+                                            {
+                                                "ELM_FLAG_HEAD": 1
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "rect",
+                                        "-type": "rect",
+                                        "caption": "坐标",
+                                        "rect": {
+                                            "height": 63,
+                                            "width": 68,
+                                            "x": 114,
+                                            "y": 10
+                                        }
+                                    },
+                                    {
+                                        "-name": "background_color",
+                                        "-type": "background-color",
+                                        "background-color": "",
+                                        "caption": "背景颜色"
+                                    },
+                                    {
+                                        "-name": "background_image",
+                                        "-type": "background-image",
+                                        "background-image": "",
+                                        "caption": "背景图片"
+                                    },
+                                    {
+                                        "-name": "border",
+                                        "-type": "border",
+                                        "border": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "caption": "边框",
+                                        "gray-color": 0
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "-name": "cent_x",
+                            "-type": "int16",
+                            "caption": "旋转中心点: X",
+                            "default": 12,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "cent_y",
+                            "-type": "int16",
+                            "caption": "旋转中心点: Y",
+                            "default": 10,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "image",
+                            "-type": "piclist",
+                            "caption": "图片列表",
+                            "default": "",
+                            "list": [
+                                "config/ctrl_pic/s0.png",
+                                "config/ctrl_pic/s1.png",
+                                "config/ctrl_pic/s2.png",
+                                "config/ctrl_pic/s3.png",
+                                "config/ctrl_pic/s4.png",
+                                "config/ctrl_pic/s5.png",
+                                "config/ctrl_pic/s6.png",
+                                "config/ctrl_pic/s7.png",
+                                "config/ctrl_pic/s8.png",
+                                "config/ctrl_pic/s9.png",
+                                "config/ctrl_pic/s10.png",
+                                "config/ctrl_pic/s11.png",
+                                "config/ctrl_pic/s12.png",
+                                "config/ctrl_pic/s13.png",
+                                "config/ctrl_pic/s14.png",
+                                "config/ctrl_pic/s15.png"
+                            ],
+                            "maxlength": 30
+                        }
+                    ],
+                    "tip": "",
+                    "version": "1",
+                    "widget": [
+                    ]
+                }
+            ],
+            "property": [
+                {
+                    "-name": "id",
+                    "-type": "id",
+                    "caption": "ID号",
+                    "ename": "NewLayout_1",
+                    "id": 0
+                },
+                {
+                    "-name": "element_css",
+                    "-type": "struct",
+                    "caption": "CSS元素",
+                    "info": "",
+                    "struct": [
+                        [
+                            {
+                                "-name": "align",
+                                "-type": "enum",
+                                "caption": "对齐方式",
+                                "default": "ALIGN_CENTER",
+                                "enum": [
+                                    {
+                                        "ALIGN_LEFT": 0
+                                    },
+                                    {
+                                        "ALIGN_CENTER": 1
+                                    },
+                                    {
+                                        "ALIGN_RIGHT": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "invisible",
+                                "-type": "enum",
+                                "caption": "默认隐藏",
+                                "default": "false",
+                                "enum": [
+                                    {
+                                        "true": 1
+                                    },
+                                    {
+                                        "false": 0
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "flags",
+                                "-type": "enum",
+                                "caption": "标志",
+                                "default": "ELM_FLAG_NORMAL",
+                                "enum": [
+                                    {
+                                        "ELM_FLAG_NORMAL": 0
+                                    },
+                                    {
+                                        "ELM_FLAG_HEAD": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "rect",
+                                "-type": "rect",
+                                "caption": "坐标",
+                                "rect": {
+                                    "height": 136,
+                                    "width": 240,
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            {
+                                "-name": "background_color",
+                                "-type": "background-color",
+                                "background-color": "",
+                                "caption": "背景颜色"
+                            },
+                            {
+                                "-name": "background_image",
+                                "-type": "background-image",
+                                "background-image": "config/ctrl_pic/clock2.png",
+                                "caption": "背景图片"
+                            },
+                            {
+                                "-name": "border",
+                                "-type": "border",
+                                "border": {
+                                    "bottom": 0,
+                                    "left": 0,
+                                    "right": 0,
+                                    "top": 0
+                                },
+                                "caption": "边框",
+                                "gray-color": 0
+                            }
+                        ]
+                    ]
+                },
+		{
+		    "-name": "source",
+		    "-type": "text-str",
+		    "caption": "数据源",
+		    "default": "rtc",
+		    "maxlength": 8
+		},				
+                {
+                    "-name": "action",
+                    "-type": "action",
+                    "action": [
+                        {
+                            "-name": "event",
+                            "-type": "enum",
+                            "caption": "事件",
+                            "default": "KEY_OK",
+                            "enum": [
+                                {
+                                    "KEY_OK": 13
+                                },
+                                {
+                                    "KEY_CANCLE": 14
+                                },
+                                {
+                                    "KEY_MENU": 15
+                                },
+                                {
+                                    "KEY_MODE": 16
+                                },
+                                {
+                                    "KEY_LEFT": 37
+                                },
+                                {
+                                    "KEY_UP": 38
+                                },
+                                {
+                                    "KEY_RIGHT": 39
+                                },
+                                {
+                                    "KEY_DOWN": 40
+                                },
+                                {
+                                    "TOUCH_DOWN": 129
+                                },
+                                {
+                                    "TOUCH_UP": 130
+                                },
+                                {
+                                    "TOUCH_MOVE": 131
+                                },
+                                {
+                                    "TOUCH_HOLD": 132
+                                },
+                                {
+                                    "TOUCH_CLICK": 133
+                                },
+                                {
+                                    "TOUCH_DOUBLE_CLICK": 134
+                                },
+                                {
+                                    "ON_CHANGE_INIT": 151
+                                },
+                                {
+                                    "ENUM_KEY": 1
+                                }
+                            ]
+                        },
+                        {
+                            "-name": "action",
+                            "-type": "enum",
+                            "caption": "动作",
+                            "default": "SHOW",
+                            "enum": [
+                                {
+                                    "SHOW": 0
+                                },
+                                {
+                                    "HIDE": 1
+                                }
+                            ]
+                        },
+                        {
+                            "-name": "object",
+                            "-type": "text-str",
+                            "caption": "对象",
+                            "default": "",
+                            "object": ""
+                        },
+                        {
+                            "-name": "args",
+                            "-type": "text-str",
+                            "args": "",
+                            "caption": "参数",
+                            "default": ""
+                        },
+                        {
+                            "values": [
+                            ]
+                        }
+                    ],
+                    "caption": "事件属性"
+                }
+            ],
+            "tip": "",
+            "version": "1",
+            "widget": [
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_wolfmqtt_version
+
+lib_wolfmqtt_version:
+.long __TIMESTAMPNUM__
+.asciz "WOLFMQTT-@{DATE}-${COMMID}"

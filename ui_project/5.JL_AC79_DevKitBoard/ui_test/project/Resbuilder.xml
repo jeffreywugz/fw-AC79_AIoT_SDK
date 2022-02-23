@@ -1,0 +1,252 @@
+<?xml version='2.0' encoding='UTF-8'?>
+<Resbuilder>
+        <Items>
+                <LanguageList>
+                        <language_name LANG="Chinese_Simplified">简体中文</language_name>
+                        <language_name LANG="Chinese_Traditional">繁体中文</language_name>
+                        <language_name LANG="Japanese">日语</language_name>
+                        <language_name LANG="Korean">韩语</language_name>
+                        <language_name LANG="English">英语</language_name>
+                        <language_name LANG="French">法语</language_name>
+                        <language_name LANG="German">德语</language_name>
+                        <language_name LANG="Italian">意大利语</language_name>
+                        <language_name LANG="Dutch">荷兰语</language_name>
+                        <language_name LANG="Portuguese">葡萄牙语</language_name>
+                        <language_name LANG="Spanish">西班牙语</language_name>
+                        <language_name LANG="Swedish">瑞典语</language_name>
+                        <language_name LANG="Czech">捷克语</language_name>
+                        <language_name LANG="Danish">丹麦语</language_name>
+                        <language_name LANG="Polish">波兰语</language_name>
+                        <language_name LANG="Russian">俄国语</language_name>
+                        <language_name LANG="Turkey">土耳其语</language_name>
+                        <language_name LANG="Hebrew">希伯来语</language_name>
+                        <language_name LANG="Thai">泰语</language_name>
+                        <language_name LANG="Hungarian">匈牙利语</language_name>
+                        <language_name LANG="Romanian">罗马尼亚语</language_name>
+                        <language_name LANG="Arabic">阿拉伯语</language_name>
+                </LanguageList>
+                <Fonts>
+                        <font00 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="Cambria" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font01 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font02 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font03 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font04 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font05 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-32"/>
+                        <font06 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font07 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font08 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font09 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font10 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font11 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font12 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font13 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font14 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font15 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font16 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font17 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font18 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font19 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font20 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                        <font21 lfItalic="0" lfStrikeOut="0" lfWidth="0" lfOutPrecision="0" lfWeight="400" lfQuality="0" lfFaceName="宋体" lfOrientation="0" lfEscapement="0" lfCharSet="134" lfUnderline="0" lfClipPrecision="0" lfPitchAndFamily="2" lfHeight="-16"/>
+                </Fonts>
+                <endian>LITTLEENDIAN</endian>
+                <paneltype>TFTPANEL</paneltype>
+                <picture_path>NULL</picture_path>
+                <excel_path>多国语言_watch.xls</excel_path>
+                <PageList>
+                        <Page id="0">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFF7F</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\sign_01.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\27.bmp</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\拨号盘\5.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="1">
+                                <ColorList>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\Ticon.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon_anwser.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\121.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\con3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\right.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon_hangup.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon67.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon1.png</Picture>
+                                </PictureList>
+                                <CellList>
+                                        <Cell>m36</Cell>
+                                        <Cell>m38</Cell>
+                                        <Cell>m41</Cell>
+                                        <Cell>m37</Cell>
+                                        <Cell>m42</Cell>
+                                        <Cell>m44</Cell>
+                                        <Cell>m39</Cell>
+                                        <Cell>m43</Cell>
+                                        <Cell>m40</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="2">
+                                <ColorList>
+                                        <Color>D9EE94</Color>
+                                        <Color>000000</Color>
+                                        <Color>8DEEDB</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\116.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png32_v.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png33.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon_118.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png32.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png33_v.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png34.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\png34_v.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\icon_80.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="3">
+                                <ColorList>
+                                        <Color>FF0000</Color>
+                                        <Color>FFFF7F</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\图片\1.png</Picture>
+                                </PictureList>
+                                <CellList>
+                                        <Cell>m45</Cell>
+                                        <Cell>m53</Cell>
+                                        <Cell>m49</Cell>
+                                        <Cell>m48</Cell>
+                                        <Cell>m57</Cell>
+                                        <Cell>m54</Cell>
+                                        <Cell>m46</Cell>
+                                        <Cell>m55</Cell>
+                                        <Cell>m56</Cell>
+                                        <Cell>m47</Cell>
+                                        <Cell>m51</Cell>
+                                        <Cell>m50</Cell>
+                                        <Cell>m52</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="4">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>D9EE94</Color>
+                                        <Color>000000</Color>
+                                        <Color>8DEEDB</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn12.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h15.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h12.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s12.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h13.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s10.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn11.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s14.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn13.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h11.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\maohao.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\maohao1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn10.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h14.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s15.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h10.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s11.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn14.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s13.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn15.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\mn8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\蓝牙智能手表切图\数字\RED\6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\背景动画\bird_1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\h2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\5.JL_AC79_DevKitBoard\ui_test\project\config\ctrl_pic\s2.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                </PageList>
+                <language>0x00000007</language>
+                <bmp_transparent_color>0x0000FFFF</bmp_transparent_color>
+                <png_background_color>0x0000FFFF</png_background_color>
+                <spec_color_list>NULL</spec_color_list>
+                <png2jpg_list>NULL</png2jpg_list>
+                <res>result</res>
+                <resfilename>result.bin</resfilename>
+                <headerfilename>result.h</headerfilename>
+                <image_compress_method>rle</image_compress_method>
+                <string_compress_method>none</string_compress_method>
+                <palette_type>rgb</palette_type>
+                <percent>100%</percent>
+                <excel_crc/>
+                <excel_row/>
+                <rotate>0</rotate>
+        </Items>
+</Resbuilder>

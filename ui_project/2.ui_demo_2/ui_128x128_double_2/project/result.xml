@@ -1,0 +1,50 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFF00</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_2\project\config\ctrl_pic\h0.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="1">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">55FF7F</Color>
+                <Color id="3">FF0000</Color>
+                <Color id="4">368FEE</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+        <Page id="2">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">D9EE94</Color>
+                <Color id="3">8DEEDB</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+        <Page id="3">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">D2EE45</Color>
+                <Color id="3">D9EE94</Color>
+                <Color id="4">8DEEDB</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_2\project\config\ctrl_pic\clock2.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+    </PageList>
+</Resbuilder>

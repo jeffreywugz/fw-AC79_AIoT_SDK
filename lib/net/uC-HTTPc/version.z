@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_uc_httpc_version
+
+lib_uc_httpc_version:
+.long __TIMESTAMPNUM__
+.asciz "UC_HTTPC-@{DATE}-${COMMID}"

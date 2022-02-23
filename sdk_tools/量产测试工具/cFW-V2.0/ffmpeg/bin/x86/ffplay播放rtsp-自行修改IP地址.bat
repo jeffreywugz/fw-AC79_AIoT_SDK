@@ -1,0 +1,1 @@
+ffplay.exe -rtsp_transport udp "rtsp://192.168.1.2/avi_rt/front.sd"

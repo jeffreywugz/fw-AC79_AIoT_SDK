@@ -1,0 +1,36 @@
+IDI_ICON1 ICON DISCARDABLE "images\\tools.ico"
+
+#if defined(UNDER_CE)
+#include <winbase.h>
+#else
+#include <winver.h>
+#endif
+
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION 1,2,0,0
+    PRODUCTVERSION 1,2,0,0
+    FILEFLAGSMASK 0x3FL
+#ifdef _DEBUG
+    FILEFLAGS VS_FF_DEBUG
+#else
+    FILEFLAGS 0x0L
+#endif
+
+    FILEOS VOS__WINDOWS32
+    FILETYPE VFT_DLL
+    FILESUBTYPE 0x0L
+    BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+            BLOCK "040904B0"
+            BEGIN
+                VALUE "CompanyName", "珠海市杰理科技有限公司\0"
+                VALUE "FileDescription", "FCC串口工具(发送)\0"
+                VALUE "FileVersion", "1.2.0.0\0"
+                VALUE "LegalCopyright", "(C)2011-2019 珠海市杰理科技股份有限公司\0"
+                VALUE "OriginalFilename", "FCCShow.exe\0"
+                VALUE "ProductName", "FCC串口工具(发送)\0"
+            END
+         END
+    END
+

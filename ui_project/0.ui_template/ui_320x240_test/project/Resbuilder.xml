@@ -1,0 +1,221 @@
+<?xml version='2.0' encoding='UTF-8'?>
+<Resbuilder>
+        <Items>
+                <LanguageList>
+                        <language_name LANG="Chinese_Simplified">简体中文</language_name>
+                        <language_name LANG="Chinese_Traditional">繁体中文</language_name>
+                        <language_name LANG="Japanese">日语</language_name>
+                        <language_name LANG="Korean">韩语</language_name>
+                        <language_name LANG="English">英语</language_name>
+                        <language_name LANG="French">法语</language_name>
+                        <language_name LANG="German">德语</language_name>
+                        <language_name LANG="Italian">意大利语</language_name>
+                        <language_name LANG="Dutch">荷兰语</language_name>
+                        <language_name LANG="Portuguese">葡萄牙语</language_name>
+                        <language_name LANG="Spanish">西班牙语</language_name>
+                        <language_name LANG="Swedish">瑞典语</language_name>
+                        <language_name LANG="Czech">捷克语</language_name>
+                        <language_name LANG="Danish">丹麦语</language_name>
+                        <language_name LANG="Polish">波兰语</language_name>
+                        <language_name LANG="Russian">俄国语</language_name>
+                        <language_name LANG="Turkey">土耳其语</language_name>
+                        <language_name LANG="Hebrew">希伯来语</language_name>
+                        <language_name LANG="Thai">泰语</language_name>
+                        <language_name LANG="Hungarian">匈牙利语</language_name>
+                        <language_name LANG="Romanian">罗马尼亚语</language_name>
+                        <language_name LANG="Arabic">阿拉伯语</language_name>
+                </LanguageList>
+                <Fonts>
+                        <font00 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="Cambria" lfQuality="0"/>
+                        <font01 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font02 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font03 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font04 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font05 lfOutPrecision="0" lfHeight="-32" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font06 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font07 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font08 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font09 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font10 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font11 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font12 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font13 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font14 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font15 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font16 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font17 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font18 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font19 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font20 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                        <font21 lfOutPrecision="0" lfHeight="-16" lfEscapement="0" lfUnderline="0" lfCharSet="134" lfClipPrecision="0" lfItalic="0" lfPitchAndFamily="2" lfOrientation="0" lfWeight="400" lfStrikeOut="0" lfWidth="0" lfFaceName="宋体" lfQuality="0"/>
+                </Fonts>
+                <endian>LITTLEENDIAN</endian>
+                <paneltype>TFTPANEL</paneltype>
+                <picture_path>NULL</picture_path>
+                <excel_path>多国语言_watch.xls</excel_path>
+                <PageList>
+                        <Page id="0">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                        <Color>C5C8C1</Color>
+                                        <Color>5500FF</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuLanguage.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuClock.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTSDCNull.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuPrintDensity.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuFormat.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTMenu.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuAudio.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTMore.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuImageQ.png</Picture>
+                                </PictureList>
+                                <CellList>
+                                        <Cell>m4</Cell>
+                                        <Cell>m5</Cell>
+                                        <Cell>m12</Cell>
+                                        <Cell>m9</Cell>
+                                        <Cell>m10</Cell>
+                                        <Cell>m6</Cell>
+                                        <Cell>m11</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="1">
+                                <ColorList>
+                                        <Color>0055FF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>0000FF</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList>
+                                        <Cell>m17</Cell>
+                                        <Cell>m20</Cell>
+                                        <Cell>m4</Cell>
+                                        <Cell>m18</Cell>
+                                        <Cell>m19</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="2">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                        <Color>FFFF7F</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图片\back.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="3">
+                                <ColorList>
+                                        <Color>FFFF7F</Color>
+                                        <Color>C5C8C1</Color>
+                                        <Color>EEB7D2</Color>
+                                        <Color>55FF7F</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                        <Color>5500FF</Color>
+                                        <Color>368FEE</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList>
+                                        <Cell>m9</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="4">
+                                <ColorList>
+                                        <Color>FFFF7F</Color>
+                                        <Color>AAAA7F</Color>
+                                        <Color>00FF7F</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>EEB797</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFAAFF</Color>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF5500</Color>
+                                        <Color>55FFFF</Color>
+                                        <Color>368FEE</Color>
+                                        <Color>AAAAFF</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList>
+                                        <Cell>m31</Cell>
+                                        <Cell>m33</Cell>
+                                        <Cell>m34</Cell>
+                                        <Cell>m35</Cell>
+                                        <Cell>m30</Cell>
+                                        <Cell>m32</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="5">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF11.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF10.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF8.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="6">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                        <Color>D9EE94</Color>
+                                        <Color>8DEEDB</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png32.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png34.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png33.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="7">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>0000FF</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList/>
+                        </Page>
+                </PageList>
+                <language>0x00000007</language>
+                <bmp_transparent_color>0x0000FFFF</bmp_transparent_color>
+                <png_background_color>0x0000FFFF</png_background_color>
+                <spec_color_list>NULL</spec_color_list>
+                <png2jpg_list>NULL</png2jpg_list>
+                <res>result</res>
+                <resfilename>result.bin</resfilename>
+                <headerfilename>result.h</headerfilename>
+                <image_compress_method>rle</image_compress_method>
+                <string_compress_method>none</string_compress_method>
+                <palette_type>rgb</palette_type>
+                <percent>100%</percent>
+                <excel_crc/>
+                <excel_row/>
+                <rotate>0</rotate>
+        </Items>
+</Resbuilder>

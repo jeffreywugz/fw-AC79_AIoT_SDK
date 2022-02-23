@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_mdns_version
+
+lib_mdns_version:
+.long __TIMESTAMPNUM__
+.asciz "MDNS-@{DATE}-${COMMID}"

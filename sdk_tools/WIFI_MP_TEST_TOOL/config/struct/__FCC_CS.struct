@@ -1,0 +1,8 @@
+version:1|id:3|name:FCC_CS|uiname:载波抑制发送测试|info:Carrier suppression testing,pathx_txpower0代表发射功率使用SDK里面的默认配置|
+mp_channel|mp_channel|int.u8|1|1,13||
+bandwidth|bandwidth|list.u8|0|0,20M$1,40M||
+short_gi|short_gi|list.u8|0|0,long_GI$1,short_GI||
+antenna_x|antenna_x|list.u8|0|0,a$1,b$2,ab||
+pathx_txpower|pathx_txpower|int.u8|0|0,128|0代表发射功率使用SDK里面的默认配置|
+mp_rate|mp_rate|list.u32|0|0,1M$1,2M$2,5.5M$3,6M$4,9M$5,11M$6,12M$7,18$8,24$9,36$10,48$11,54$12,HTMCS0$13,HTMCS1$14,HTMCS2$15,HTMCS3$16,HTMCS4$17,HTMCS5$18,HTMCS6$19,HTMCS7||
+npackets|npackets|int.u32|50|0,2147483647||

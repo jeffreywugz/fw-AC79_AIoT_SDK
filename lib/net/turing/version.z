@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_turing_version
+
+lib_turing_version:
+.long __TIMESTAMPNUM__
+.asciz "TURING-@{DATE}-${COMMID}"

@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_tencent_version
+
+lib_tencent_version:
+.long __TIMESTAMPNUM__
+.asciz "TENCENT-@{DATE}-${COMMID}"

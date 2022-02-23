@@ -1,0 +1,12 @@
+version:1|id:6|name:FCC_RX_START|uiname:开始RX测试|info:Air Rx testing
+mp_channel|mp_channel|int.u8|1|1,13||
+bandwidth|bandwidth|list.u8|0|0,20M$1,40M||
+short_gi|short_gi|list.u8|0|0,long_GI$1,short_GI||
+antenna_x|antenna_x|list.u8|0|0,a$1,b$2,ab||
+filter_enable|filter_enable|checkbox.u8|0|0,1|mac地址白名单开关|
+filter_mac0|filter_mac0|int.u8|0|0,255||
+filter_mac1|filter_mac1|int.u8|0|0,255||
+filter_mac2|filter_mac2|int.u8|0|0,255||
+filter_mac3|filter_mac3|int.u8|0|0,255||
+filter_mac4|filter_mac4|int.u8|0|0,255||
+filter_mac5|filter_mac5|int.u8|0|0,255||

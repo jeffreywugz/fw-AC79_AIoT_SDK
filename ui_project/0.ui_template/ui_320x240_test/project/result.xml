@@ -1,0 +1,160 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">FF0000</Color>
+                <Color id="3">000000</Color>
+                <Color id="4">C5C8C1</Color>
+                <Color id="5">5500FF</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuAudio.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuClock.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuFormat.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuImageQ.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuLanguage.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMenuPrintDensity.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery0.png</Picture>
+                <Picture fmt="OSD16" id="8">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery1.png</Picture>
+                <Picture fmt="OSD16" id="9">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery2.png</Picture>
+                <Picture fmt="OSD16" id="10">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery3.png</Picture>
+                <Picture fmt="OSD16" id="11">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery4.png</Picture>
+                <Picture fmt="OSD16" id="12">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTBattery5.png</Picture>
+                <Picture fmt="OSD16" id="13">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTMenu.png</Picture>
+                <Picture fmt="OSD16" id="14">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTMore.png</Picture>
+                <Picture fmt="OSD16" id="15">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图标\iconMTSDCNull.png</Picture>
+            </PictureList>
+            <CellList>
+                <Cell id="1">m4</Cell>
+                <Cell id="2">m5</Cell>
+                <Cell id="3">m6</Cell>
+                <Cell id="4">m9</Cell>
+                <Cell id="5">m10</Cell>
+                <Cell id="6">m11</Cell>
+                <Cell id="7">m12</Cell>
+            </CellList>
+        </Page>
+        <Page id="1">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">0055FF</Color>
+                <Color id="2">FF0000</Color>
+                <Color id="3">0000FF</Color>
+                <Color id="4">000000</Color>
+                <Color id="5">FFFFFF</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList>
+                <Cell id="1">m4</Cell>
+                <Cell id="8">m17</Cell>
+                <Cell id="9">m18</Cell>
+                <Cell id="10">m19</Cell>
+                <Cell id="11">m20</Cell>
+            </CellList>
+        </Page>
+        <Page id="2">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFF7F</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\图片\back.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="3">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFF7F</Color>
+                <Color id="2">C5C8C1</Color>
+                <Color id="3">EEB7D2</Color>
+                <Color id="4">55FF7F</Color>
+                <Color id="5">FF0000</Color>
+                <Color id="6">000000</Color>
+                <Color id="7">FFFFFF</Color>
+                <Color id="8">5500FF</Color>
+                <Color id="9">368FEE</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList>
+                <Cell id="4">m9</Cell>
+            </CellList>
+        </Page>
+        <Page id="4">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFF7F</Color>
+                <Color id="2">AAAA7F</Color>
+                <Color id="3">00FF7F</Color>
+                <Color id="4">FF0000</Color>
+                <Color id="5">EEB797</Color>
+                <Color id="6">000000</Color>
+                <Color id="7">FFAAFF</Color>
+                <Color id="8">FFFFFF</Color>
+                <Color id="9">FF5500</Color>
+                <Color id="10">55FFFF</Color>
+                <Color id="11">368FEE</Color>
+                <Color id="12">AAAAFF</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList>
+                <Cell id="12">m30</Cell>
+                <Cell id="13">m31</Cell>
+                <Cell id="14">m32</Cell>
+                <Cell id="15">m33</Cell>
+                <Cell id="16">m34</Cell>
+                <Cell id="17">m35</Cell>
+            </CellList>
+        </Page>
+        <Page id="5">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF1.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF2.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF3.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF4.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF5.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF6.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF7.png</Picture>
+                <Picture fmt="OSD16" id="8">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF8.png</Picture>
+                <Picture fmt="OSD16" id="9">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF9.png</Picture>
+                <Picture fmt="OSD16" id="10">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF10.png</Picture>
+                <Picture fmt="OSD16" id="11">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\gif\GIF11.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="6">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">D9EE94</Color>
+                <Color id="3">8DEEDB</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png32.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png33.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\1.V1.10.4_ui_test\ui_320x240_test\project\config\ctrl_pic\png34.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="7">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+                <Color id="3">FF0000</Color>
+                <Color id="4">0000FF</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+    </PageList>
+</Resbuilder>

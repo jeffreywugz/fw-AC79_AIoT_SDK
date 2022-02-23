@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_wt_version
+
+lib_wt_version:
+.long __TIMESTAMPNUM__
+.asciz "WT-@{DATE}-${COMMID}"

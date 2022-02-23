@@ -1,0 +1,8 @@
+version:1|id:10|name:FCC_SET_PA|uiname:设置PA值|info:|
+value1|值1|int.u8|0|0,7||
+value2|值2|int.u8|0|0,7||
+value3|值3|int.u8|0|0,7||
+value4|值4|int.u8|0|0,7||
+value5|值5|int.u8|0|0,15||
+value6|值6|int.u8|0|0,7||
+value7|值7|int.u8|7|0,15||

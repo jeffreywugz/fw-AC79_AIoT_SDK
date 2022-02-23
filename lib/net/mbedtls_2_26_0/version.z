@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_mbedtls_2_26_0_version
+
+lib_mbedtls_2_26_0_version:
+.long __TIMESTAMPNUM__
+.asciz "MBEDTLS_2_26_0-@{DATE}-${COMMID}"

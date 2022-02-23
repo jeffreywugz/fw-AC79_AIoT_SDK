@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_echocloud_version
+
+lib_echocloud_version:
+.long __TIMESTAMPNUM__
+.asciz "ECHOCLOUD-@{DATE}-${COMMID}"

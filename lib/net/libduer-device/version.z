@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_duer_version
+
+lib_duer_version:
+.long __TIMESTAMPNUM__
+.asciz "DUER-@{DATE}-${COMMID}"

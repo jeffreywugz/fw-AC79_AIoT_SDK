@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_uip_version
+
+lib_uip_version:
+.long __TIMESTAMPNUM__
+.asciz "UIP-@{DATE}-${COMMID}"

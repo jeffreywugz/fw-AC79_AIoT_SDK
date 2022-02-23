@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bookmark.png</file>
+        <file>images/bookmark_add.png</file>
+        <file>images/bookmark_folder.png</file>
+        <file>images/bookmark_toolbar.png</file>
+        <file>images/bookmarks_list_add.png</file>
+        <file>images/cancel.png</file>
+        <file>images/dowarrow.png</file>
+        <file>images/enum_add.png</file>
+        <file>images/enum_change.png</file>
+        <file>images/enum_delete.png</file>
+        <file>images/save_all.png</file>
+        <file>images/uparrow.png</file>
+    </qresource>
+</RCC>

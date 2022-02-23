@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>894</width>
+    <height>524</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>871</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>结构体:</string>
+    </property>
+    <widget class="QPushButton" name="btnstructadd">
+     <property name="geometry">
+      <rect>
+       <x>220</x>
+       <y>13</y>
+       <width>111</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>新增结构体(&amp;N)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/enum_add.png</normaloff>:/images/images/enum_add.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnstructdelete">
+     <property name="geometry">
+      <rect>
+       <x>350</x>
+       <y>13</y>
+       <width>111</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>删除结构体(&amp;D)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/enum_delete.png</normaloff>:/images/images/enum_delete.png</iconset>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="comboBox">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>14</y>
+       <width>181</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>16</pointsize>
+      </font>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnstructrefresh">
+     <property name="geometry">
+      <rect>
+       <x>480</x>
+       <y>13</y>
+       <width>111</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>刷新结构体(&amp;C)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/enum_change.png</normaloff>:/images/images/enum_change.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton">
+     <property name="geometry">
+      <rect>
+       <x>610</x>
+       <y>13</y>
+       <width>121</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>打开所在目录(&amp;O)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/bookmark.png</normaloff>:/images/images/bookmark.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnstructsave">
+     <property name="geometry">
+      <rect>
+       <x>750</x>
+       <y>13</y>
+       <width>111</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>导出结构体(&amp;E)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/bookmark_folder.png</normaloff>:/images/images/bookmark_folder.png</iconset>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>871</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>结构体信息:</string>
+    </property>
+    <widget class="QTableView" name="tableView">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>50</y>
+       <width>871</width>
+       <height>331</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btninfoadd">
+     <property name="geometry">
+      <rect>
+       <x>2</x>
+       <y>387</y>
+       <width>121</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>增加属性(&amp;A)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/bookmark_add.png</normaloff>:/images/images/bookmark_add.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btninfodelete">
+     <property name="geometry">
+      <rect>
+       <x>164</x>
+       <y>387</y>
+       <width>121</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>删除属性(&amp;R)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/cancel.png</normaloff>:/images/images/cancel.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btninfoupdate">
+     <property name="geometry">
+      <rect>
+       <x>325</x>
+       <y>387</y>
+       <width>121</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>修改属性(&amp;U)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/bookmark_toolbar.png</normaloff>:/images/images/bookmark_toolbar.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnup">
+     <property name="geometry">
+      <rect>
+       <x>530</x>
+       <y>387</y>
+       <width>91</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>上移(&amp;F)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/uparrow.png</normaloff>:/images/images/uparrow.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btninfosave">
+     <property name="geometry">
+      <rect>
+       <x>795</x>
+       <y>387</y>
+       <width>75</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>保存(&amp;S)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/save_all.png</normaloff>:/images/images/save_all.png</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btndown">
+     <property name="geometry">
+      <rect>
+       <x>644</x>
+       <y>387</y>
+       <width>91</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>下移(&amp;B)</string>
+     </property>
+     <property name="icon">
+      <iconset resource="images.qrc">
+       <normaloff>:/images/images/dowarrow.png</normaloff>:/images/images/dowarrow.png</iconset>
+     </property>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>10</y>
+       <width>871</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="lblversion">
+        <property name="text">
+         <string>版本:</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="txtversion">
+        <property name="maximum">
+         <number>65535</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="lblid">
+        <property name="text">
+         <string>结构体ID:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="txtid">
+        <property name="maximum">
+         <number>65535</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="lblname">
+        <property name="text">
+         <string>结构体名称:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="txtname"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="lbluiname">
+        <property name="text">
+         <string>结构体中文名称:</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="txtuiname"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="lblinfo">
+        <property name="text">
+         <string>备注信息:</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="txtinfo"/>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>894</width>
+     <height>19</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="images.qrc"/>
+ </resources>
+ <connections/>
+</ui>

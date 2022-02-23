@@ -1,0 +1,2 @@
+h0.png|C:/Users/ZPC20-015/Desktop/wl80/trunk/master/ui_project/0.V1.10.4_ui_template - ¸±±¾/ui_320x240_test/project/config/ctrl_pic/h0.pngbaskslash equal zero else
+config/ctrl_pic/h0.png

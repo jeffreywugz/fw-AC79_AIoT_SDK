@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_telecom_version
+
+lib_telecom_version:
+.long __TIMESTAMPNUM__
+.asciz "TELECOM-@{DATE}-${COMMID}"

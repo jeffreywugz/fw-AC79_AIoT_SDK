@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/save.ico</file>
+        <file>images/com.ico</file>
+        <file>images/opencom.ico</file>
+        <file>images/refresh.png</file>
+    </qresource>
+</RCC>

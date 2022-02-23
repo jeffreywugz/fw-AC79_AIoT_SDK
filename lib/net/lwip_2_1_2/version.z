@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_lwip_2_1_2_version
+
+lib_lwip_2_1_2_version:
+.long __TIMESTAMPNUM__
+.asciz "LWIP_2_1_2-@{DATE}-${COMMID}"

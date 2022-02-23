@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_zliblite_version
+
+lib_zliblite_version:
+.long __TIMESTAMPNUM__
+.asciz "ZLIBLITE-@{DATE}-${COMMID}"

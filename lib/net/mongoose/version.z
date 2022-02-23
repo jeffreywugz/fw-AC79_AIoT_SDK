@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_mongoose_version
+
+lib_mongoose_version:
+.long __TIMESTAMPNUM__
+.asciz "MONGOOSE-@{DATE}-${COMMID}"

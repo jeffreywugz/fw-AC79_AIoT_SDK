@@ -1,0 +1,164 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+                <Color id="3">FF0000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\black.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuFormat.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery0.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery1.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery2.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery3.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery4.png</Picture>
+                <Picture fmt="OSD16" id="8">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery5.png</Picture>
+                <Picture fmt="OSD16" id="9">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTSDCNull.png</Picture>
+                <Picture fmt="OSD16" id="10">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\red.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="1">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">5500FF</Color>
+                <Color id="2">55AAFF</Color>
+                <Color id="3">C5C8C1</Color>
+                <Color id="4">000000</Color>
+                <Color id="5">FFFFFF</Color>
+                <Color id="6">FF0000</Color>
+                <Color id="7">00FF00</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuAudio.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuClock.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuImageQ.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuLanguage.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuPrintDensity.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTMenu.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\1.demo_need\iconMTMore.png</Picture>
+                <Picture fmt="OSD16" id="8">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-0.png</Picture>
+                <Picture fmt="OSD16" id="9">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-1.png</Picture>
+                <Picture fmt="OSD16" id="10">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-2.png</Picture>
+                <Picture fmt="OSD16" id="11">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-3.png</Picture>
+                <Picture fmt="OSD16" id="12">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-4.png</Picture>
+                <Picture fmt="OSD16" id="13">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-5.png</Picture>
+                <Picture fmt="OSD16" id="14">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-6.png</Picture>
+                <Picture fmt="OSD16" id="15">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-7.png</Picture>
+                <Picture fmt="OSD16" id="16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-8.png</Picture>
+                <Picture fmt="OSD16" id="17">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-9.png</Picture>
+            </PictureList>
+            <CellList>
+                <Cell id="1">m4</Cell>
+                <Cell id="2">m5</Cell>
+                <Cell id="3">m6</Cell>
+                <Cell id="4">m9</Cell>
+                <Cell id="5">m10</Cell>
+                <Cell id="10">m36</Cell>
+                <Cell id="11">m37</Cell>
+            </CellList>
+        </Page>
+        <Page id="2">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\1.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\2.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\3.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\4.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\5.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\6.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\7.png</Picture>
+                <Picture fmt="OSD16" id="8">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\8.png</Picture>
+                <Picture fmt="OSD16" id="9">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\9.png</Picture>
+                <Picture fmt="OSD16" id="10">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\10.png</Picture>
+                <Picture fmt="OSD16" id="11">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\11.png</Picture>
+                <Picture fmt="OSD16" id="12">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\12.png</Picture>
+                <Picture fmt="OSD16" id="13">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\13.png</Picture>
+                <Picture fmt="OSD16" id="14">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\14.png</Picture>
+                <Picture fmt="OSD16" id="15">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\15.png</Picture>
+                <Picture fmt="OSD16" id="16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\16.png</Picture>
+                <Picture fmt="OSD16" id="17">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\17.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="3">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">55FF7F</Color>
+                <Color id="3">FFFF7F</Color>
+                <Color id="4">FF0000</Color>
+                <Color id="5">368FEE</Color>
+                <Color id="6">000000</Color>
+                <Color id="7">EEB7D2</Color>
+                <Color id="8">5500FF</Color>
+                <Color id="9">C5C8C1</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList>
+                <Cell id="4">m9</Cell>
+            </CellList>
+        </Page>
+        <Page id="4">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">0000FF</Color>
+                <Color id="3">0055FF</Color>
+                <Color id="4">FF0000</Color>
+                <Color id="5">000000</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList>
+                <Cell id="1">m4</Cell>
+                <Cell id="6">m17</Cell>
+                <Cell id="7">m18</Cell>
+                <Cell id="8">m19</Cell>
+                <Cell id="9">m20</Cell>
+            </CellList>
+        </Page>
+        <Page id="5">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">FF0000</Color>
+                <Color id="3">000000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTPause1.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTPlay1.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="6">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">FF0000</Color>
+                <Color id="3">000000</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+        <Page id="7">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">FF0000</Color>
+                <Color id="3">D9EE94</Color>
+                <Color id="4">368FEE</Color>
+                <Color id="5">8DEEDB</Color>
+                <Color id="6">000000</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+    </PageList>
+</Resbuilder>

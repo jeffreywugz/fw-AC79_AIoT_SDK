@@ -1,0 +1,9 @@
+.section .sys.version, "ax"
+
+.global app_wifi_story_machine_version
+
+app_wifi_story_machine_version:
+.long __TIMESTAMPNUM__
+.asciz "WIFI_STORY_MACHINE-@{DATE}-${COMMID}"
+
+

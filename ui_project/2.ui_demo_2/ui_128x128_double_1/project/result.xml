@@ -1,0 +1,61 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+                <Color id="3">FF0000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\1.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\2.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\10.menu_icon_phone_sel_s2.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\11.menu_icon_contacts_sel_s2.png</Picture>
+                <Picture fmt="OSD16" id="5">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\18.menu_icon_alipay_sel_s3.png</Picture>
+                <Picture fmt="OSD16" id="6">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\19.menu_icon_stopwatch_sel_s3.png</Picture>
+                <Picture fmt="OSD16" id="7">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\back.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="1">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+                <Color id="3">8DEEDB</Color>
+                <Color id="4">FF0000</Color>
+                <Color id="5">55AAFF</Color>
+                <Color id="6">EED9C1</Color>
+                <Color id="7">D9EE94</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\2.ui_demo_2\ui_128x128_double_1\project\config\图片\04.menu_icon_heart_sel_s0.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="2">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">D2EE45</Color>
+                <Color id="2">EED9C1</Color>
+                <Color id="3">000000</Color>
+                <Color id="4">FF0000</Color>
+                <Color id="5">AAFF7F</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+        <Page id="3">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">55FF7F</Color>
+                <Color id="2">8DEEDB</Color>
+                <Color id="3">000000</Color>
+            </ColorList>
+            <PictureList/>
+            <CellList/>
+        </Page>
+    </PageList>
+</Resbuilder>

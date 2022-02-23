@@ -1,0 +1,225 @@
+<?xml version='2.0' encoding='UTF-8'?>
+<Resbuilder>
+        <Items>
+                <LanguageList>
+                        <language_name LANG="Chinese_Simplified">简体中文</language_name>
+                        <language_name LANG="Chinese_Traditional">繁体中文</language_name>
+                        <language_name LANG="Japanese">日语</language_name>
+                        <language_name LANG="Korean">韩语</language_name>
+                        <language_name LANG="English">英语</language_name>
+                        <language_name LANG="French">法语</language_name>
+                        <language_name LANG="German">德语</language_name>
+                        <language_name LANG="Italian">意大利语</language_name>
+                        <language_name LANG="Dutch">荷兰语</language_name>
+                        <language_name LANG="Portuguese">葡萄牙语</language_name>
+                        <language_name LANG="Spanish">西班牙语</language_name>
+                        <language_name LANG="Swedish">瑞典语</language_name>
+                        <language_name LANG="Czech">捷克语</language_name>
+                        <language_name LANG="Danish">丹麦语</language_name>
+                        <language_name LANG="Polish">波兰语</language_name>
+                        <language_name LANG="Russian">俄国语</language_name>
+                        <language_name LANG="Turkey">土耳其语</language_name>
+                        <language_name LANG="Hebrew">希伯来语</language_name>
+                        <language_name LANG="Thai">泰语</language_name>
+                        <language_name LANG="Hungarian">匈牙利语</language_name>
+                        <language_name LANG="Romanian">罗马尼亚语</language_name>
+                        <language_name LANG="Arabic">阿拉伯语</language_name>
+                </LanguageList>
+                <Fonts>
+                        <font00 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="Cambria" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font01 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font02 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font03 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font04 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font05 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-32" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font06 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font07 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font08 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font09 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font10 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font11 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font12 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font13 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font14 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font15 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font16 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font17 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font18 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font19 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font20 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                        <font21 lfCharSet="134" lfPitchAndFamily="2" lfClipPrecision="0" lfWidth="0" lfStrikeOut="0" lfFaceName="宋体" lfOrientation="0" lfOutPrecision="0" lfQuality="0" lfItalic="0" lfHeight="-16" lfUnderline="0" lfWeight="400" lfEscapement="0"/>
+                </Fonts>
+                <endian>LITTLEENDIAN</endian>
+                <paneltype>TFTPANEL</paneltype>
+                <picture_path>NULL</picture_path>
+                <excel_path>多国语言_watch.xls</excel_path>
+                <PageList>
+                        <Page id="0">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\red.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuFormat.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTSDCNull.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTBattery5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\black.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="1">
+                                <ColorList>
+                                        <Color>5500FF</Color>
+                                        <Color>55AAFF</Color>
+                                        <Color>C5C8C1</Color>
+                                        <Color>000000</Color>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>00FF00</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuClock.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\1.demo_need\iconMTMore.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuAudio.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTMenu.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuLanguage.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-0.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\资源\数字大号\num-7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuPrintDensity.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMenuImageQ.png</Picture>
+                                </PictureList>
+                                <CellList>
+                                        <Cell>m10</Cell>
+                                        <Cell>m5</Cell>
+                                        <Cell>m9</Cell>
+                                        <Cell>m4</Cell>
+                                        <Cell>m6</Cell>
+                                        <Cell>m37</Cell>
+                                        <Cell>m36</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="2">
+                                <ColorList>
+                                        <Color>000000</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\17.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\16.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\13.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\9.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\2.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\11.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\5.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\15.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\7.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\12.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\4.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\8.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\3.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\6.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\10.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\car_gif\14.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="3">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>55FF7F</Color>
+                                        <Color>FFFF7F</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>368FEE</Color>
+                                        <Color>000000</Color>
+                                        <Color>EEB7D2</Color>
+                                        <Color>5500FF</Color>
+                                        <Color>C5C8C1</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList>
+                                        <Cell>m9</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="4">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>0000FF</Color>
+                                        <Color>0055FF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList>
+                                        <Cell>m19</Cell>
+                                        <Cell>m20</Cell>
+                                        <Cell>m4</Cell>
+                                        <Cell>m17</Cell>
+                                        <Cell>m18</Cell>
+                                </CellList>
+                        </Page>
+                        <Page id="5">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                </ColorList>
+                                <PictureList>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTPlay1.png</Picture>
+                                        <Picture fmt="OSD16">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\3.ui_demo_wifi_camera\ui_320x240_test\project\config\图标\iconMTPause1.png</Picture>
+                                </PictureList>
+                                <CellList/>
+                        </Page>
+                        <Page id="6">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>000000</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList/>
+                        </Page>
+                        <Page id="7">
+                                <ColorList>
+                                        <Color>FFFFFF</Color>
+                                        <Color>FF0000</Color>
+                                        <Color>D9EE94</Color>
+                                        <Color>368FEE</Color>
+                                        <Color>8DEEDB</Color>
+                                        <Color>000000</Color>
+                                </ColorList>
+                                <PictureList/>
+                                <CellList/>
+                        </Page>
+                </PageList>
+                <language>0x00000007</language>
+                <bmp_transparent_color>0x0000FFFF</bmp_transparent_color>
+                <png_background_color>0x0000FFFF</png_background_color>
+                <spec_color_list>NULL</spec_color_list>
+                <png2jpg_list>NULL</png2jpg_list>
+                <res>result</res>
+                <resfilename>result.bin</resfilename>
+                <headerfilename>result.h</headerfilename>
+                <image_compress_method>rle</image_compress_method>
+                <string_compress_method>none</string_compress_method>
+                <palette_type>rgb</palette_type>
+                <percent>100%</percent>
+                <excel_crc/>
+                <excel_row/>
+                <rotate>0</rotate>
+        </Items>
+</Resbuilder>

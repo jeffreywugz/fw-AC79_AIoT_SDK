@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_json_c_version
+
+lib_json_c_version:
+.long __TIMESTAMPNUM__
+.asciz "JSON_C-@{DATE}-${COMMID}"

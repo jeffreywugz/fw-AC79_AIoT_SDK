@@ -1,0 +1,7 @@
+.section .sys.version, "ax"
+
+.global lib_mpeg_version
+
+lib_mpeg_version:
+.long __TIMESTAMPNUM__
+.asciz "MPEG-@{DATE}-${COMMID}"

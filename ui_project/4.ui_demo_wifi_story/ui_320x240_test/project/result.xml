@@ -1,0 +1,48 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+                <Color id="2">FFFFFF</Color>
+                <Color id="3">FF0000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\图片\back.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\ctrl_pic\png32.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\ctrl_pic\png33.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="1">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">000000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\png\2021-06-21 01.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\png\2021-06-21 02.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\png\2021-06-21 03.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\png\2021-06-21 04.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+        <Page id="2">
+            <ColorList>
+                <Color id="0">55AAA5</Color>
+                <Color id="1">FFFFFF</Color>
+                <Color id="2">000000</Color>
+                <Color id="3">8DEEDB</Color>
+                <Color id="4">FF0000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture fmt="OSD16" id="1">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\图片\4fbbf05c18c4243c7047c1144cf8e42a.png</Picture>
+                <Picture fmt="OSD16" id="2">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\ctrl_pic\png32.png</Picture>
+                <Picture fmt="OSD16" id="3">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\ctrl_pic\png33.png</Picture>
+                <Picture fmt="OSD16" id="4">C:\Users\ZPC20-015\Desktop\wl80\trunk\master\ui_project\4.V1.10.4_ui_story\ui_320x240_test\project\config\ctrl_pic\png34.png</Picture>
+            </PictureList>
+            <CellList/>
+        </Page>
+    </PageList>
+</Resbuilder>

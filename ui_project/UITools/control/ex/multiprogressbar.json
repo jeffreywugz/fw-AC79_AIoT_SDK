@@ -1,0 +1,425 @@
+{
+    "compoents": [
+        {
+            "-class": "NewLayout",
+            "-name": "布局_23",
+            "-type": "NewLayout",
+            "caption": "multiprogressbar",
+            "icon": "../../../UITools/control/ex/multiprogressbar.png",
+            "layout": [                
+				{
+                    "-class": "NewFrame",
+                    "-name": "bar",
+                    "-type": "ImageList",
+                    "caption": "multiprogressbar_highlight",
+                    "icon": "config/images/page_white_vector.png",
+                    "property": [
+                        {
+                            "-name": "id",
+                            "-type": "id",
+                            "caption": "ID号",
+                            "ename": "BaseForm_14",
+                            "id": 0
+                        },
+                        {
+                            "-name": "element_css",
+                            "-type": "struct",
+                            "caption": "CSS元素",
+                            "info": "",
+                            "struct": [
+                                [
+                                    {
+                                        "-name": "align",
+                                        "-type": "enum",
+                                        "caption": "对齐方式",
+                                        "default": "ALIGN_CENTER",
+                                        "enum": [
+                                            {
+                                                "ALIGN_LEFT": 0
+                                            },
+                                            {
+                                                "ALIGN_CENTER": 1
+                                            },
+                                            {
+                                                "ALIGN_RIGHT": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "invisible",
+                                        "-type": "enum",
+                                        "caption": "默认隐藏",
+                                        "default": "false",
+                                        "enum": [
+                                            {
+                                                "true": 1
+                                            },
+                                            {
+                                                "false": 0
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "flags",
+                                        "-type": "enum",
+                                        "caption": "标志",
+                                        "default": "ELM_FLAG_NORMAL",
+                                        "enum": [
+                                            {
+                                                "ELM_FLAG_NORMAL": 0
+                                            },
+                                            {
+                                                "ELM_FLAG_HEAD": 1
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "-name": "rect",
+                                        "-type": "rect",
+                                        "caption": "坐标",
+                                        "rect": {
+                                            "height": 75,
+                                            "width": 75,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    {
+                                        "-name": "background_color",
+                                        "-type": "background-color",
+                                        "background-color": "",
+                                        "caption": "背景颜色"
+                                    },
+                                    {
+                                        "-name": "background_image",
+                                        "-type": "background-image",
+                                        "background-image": "",
+                                        "caption": "背景图片"
+                                    },
+                                    {
+                                        "-name": "border",
+                                        "-type": "border",
+                                        "border": {
+                                            "bottom": 0,
+                                            "left": 0,
+                                            "right": 0,
+                                            "top": 0
+                                        },
+                                        "caption": "边框",
+                                        "gray-color": 0
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "-name": "number",
+                            "-type": "int16",
+                            "caption": "圆环个数",
+                            "default": 1,
+                            "max": 3,
+                            "min": 1
+                        },								
+                        {
+                            "-name": "cent_x",
+                            "-type": "int16",
+                            "caption": "圆心: X",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "cent_y",
+                            "-type": "int16",
+                            "caption": "圆心: Y",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "radius0_big",
+                            "-type": "int16",
+                            "caption": "圆环0外圆半径: R1",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "radius0_small",
+                            "-type": "int16",
+                            "caption": "圆环0内圆半径: R0",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "radius1_big",
+                            "-type": "int16",
+                            "caption": "圆环1外圆半径: R1",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "radius1_small",
+                            "-type": "int16",
+                            "caption": "圆环1内圆半径: R0",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+							                                {
+                            "-name": "radius2_big",
+                            "-type": "int16",
+                            "caption": "圆环2外圆半径: R1",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "radius2_small",
+                            "-type": "int16",
+                            "caption": "圆环2内圆半径: R0",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "angle_begin",
+                            "-type": "int16",
+                            "caption": "起始角度: begin",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "angle_end",
+                            "-type": "int16",
+                            "caption": "结束角度: end",
+                            "default": 0,
+                            "max": 32768,
+                            "min": 0
+                        },
+                        {
+                            "-name": "normal_image",
+                            "-type": "piclist",
+                            "caption": "图片列表",
+                            "default": "",
+                            "list": [
+                            ],
+                            "maxlength": 30
+                        }                        
+                    ],
+                    "tip": "",
+                    "version": "1",
+                    "widget": [
+                    ]
+                }				
+            ],
+            "property": [
+                {
+                    "-name": "id",
+                    "-type": "id",
+                    "caption": "ID号",
+                    "ename": "BaseForm_13",
+                    "id": 0
+                },
+                {
+                    "-name": "element_css",
+                    "-type": "struct",
+                    "caption": "CSS元素",
+                    "info": "",
+                    "struct": [
+                        [
+                            {
+                                "-name": "align",
+                                "-type": "enum",
+                                "caption": "对齐方式",
+                                "default": "ALIGN_CENTER",
+                                "enum": [
+                                    {
+                                        "ALIGN_LEFT": 0
+                                    },
+                                    {
+                                        "ALIGN_CENTER": 1
+                                    },
+                                    {
+                                        "ALIGN_RIGHT": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "invisible",
+                                "-type": "enum",
+                                "caption": "默认隐藏",
+                                "default": "false",
+                                "enum": [
+                                    {
+                                        "true": 1
+                                    },
+                                    {
+                                        "false": 0
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "flags",
+                                "-type": "enum",
+                                "caption": "标志",
+                                "default": "ELM_FLAG_NORMAL",
+                                "enum": [
+                                    {
+                                        "ELM_FLAG_NORMAL": 0
+                                    },
+                                    {
+                                        "ELM_FLAG_HEAD": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "-name": "rect",
+                                "-type": "rect",
+                                "caption": "坐标",
+                                "rect": {
+                                    "height": 75,
+                                    "width": 75,
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            {
+                                "-name": "background_color",
+                                "-type": "background-color",
+                                "background-color": "#EEB7D2",
+                                "caption": "背景颜色"
+                            },
+                            {
+                                "-name": "background_image",
+                                "-type": "background-image",
+                                "background-image": "",
+                                "caption": "背景图片"
+                            },
+                            {
+                                "-name": "border",
+                                "-type": "border",
+                                "border": {
+                                    "bottom": 0,
+                                    "left": 0,
+                                    "right": 0,
+                                    "top": 0
+                                },
+                                "caption": "边框",
+                                "gray-color": 0
+                            }
+                        ]
+                    ]
+                },
+	        {
+		    "-name": "source",
+		    "-type": "text-str",
+		    "caption": "数据源",
+		    "default": "none",
+		    "maxlength": 8
+		},				
+                {
+                    "-name": "action",
+                    "-type": "action",
+                    "action": [
+                        {
+                            "-name": "event",
+                            "-type": "enum",
+                            "caption": "事件",
+                            "default": "KEY_OK",
+                            "enum": [
+                                {
+                                    "KEY_OK": 13
+                                },
+                                {
+                                    "KEY_CANCLE": 14
+                                },
+                                {
+                                    "KEY_MENU": 15
+                                },
+                                {
+                                    "KEY_MODE": 16
+                                },
+                                {
+                                    "KEY_LEFT": 37
+                                },
+                                {
+                                    "KEY_UP": 38
+                                },
+                                {
+                                    "KEY_RIGHT": 39
+                                },
+                                {
+                                    "KEY_DOWN": 40
+                                },
+                                {
+                                    "TOUCH_DOWN": 129
+                                },
+                                {
+                                    "TOUCH_UP": 130
+                                },
+                                {
+                                    "TOUCH_MOVE": 131
+                                },
+                                {
+                                    "TOUCH_HOLD": 132
+                                },
+                                {
+                                    "TOUCH_CLICK": 133
+                                },
+                                {
+                                    "TOUCH_DOUBLE_CLICK": 134
+                                },
+                                {
+                                    "ON_CHANGE_INIT": 151
+                                },
+                                {
+                                    "ENUM_KEY": 1
+                                }
+                            ]
+                        },
+                        {
+                            "-name": "action",
+                            "-type": "enum",
+                            "caption": "动作",
+                            "default": "SHOW",
+                            "enum": [
+                                {
+                                    "SHOW": 0
+                                },
+                                {
+                                    "HIDE": 1
+                                }
+                            ]
+                        },
+                        {
+                            "-name": "object",
+                            "-type": "text-str",
+                            "caption": "对象",
+                            "default": "",
+                            "object": ""
+                        },
+                        {
+                            "-name": "args",
+                            "-type": "text-str",
+                            "args": "",
+                            "caption": "参数",
+                            "default": ""
+                        },
+                        {
+                            "values": [
+                            ]
+                        }
+                    ],
+                    "caption": "事件属性"
+                }
+            ],
+            "tip": "",
+            "version": "1",
+            "widget": [
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+需要更新参数时，点击AC790N_MP_TEST下载固件/LuaConfig.exe或者AC790N_MP_TEST下载固件/LuaConfig.exe，点击菜单栏的“打开”，打开fw_create.lua，配置需要的参数，然后点击菜单栏的“保存”，保存bin文件，最后点击download.bat重新下载固件即可。
